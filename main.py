@@ -8,4 +8,4 @@ x = int(x)
 y = int(y)
 A = int(A)
 
-print(f"Este es tu resultado: {x+y+A}")
+print(f"Este es tu resultado: {x+y+A+45}")
