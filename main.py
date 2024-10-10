@@ -11,5 +11,5 @@ Z = int(Z)
 print(f"Este es tu resultado: {x+y+Z}")
 print("Hola mundo en la rama Main")
 
-for i in range(30):
-    print(f"Hola, soy el Mensaje {i+1}")
+for i in range(3):
+    print(f"Hola, soy el mensaje {i+1}")
