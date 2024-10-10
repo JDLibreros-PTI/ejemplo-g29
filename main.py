@@ -14,4 +14,4 @@ print("Hola mundo en la rama Main")
 for i in range(3):
     print(f"Hola, soy el mensaje {i+1}")
     
-print("\nHola Estudiantes, Como te Encuentras, Soy tu tutor de ParqueSoft")
+print("\nHola estudiantes, como se encuentran, soy su tutor \"Jose\" de ParqueSoft")
